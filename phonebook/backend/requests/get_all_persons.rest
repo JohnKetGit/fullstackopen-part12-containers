@@ -1,0 +1,10 @@
+GET http://localhost:3001/persons
+
+###
+GET http://localhost:3001/api/persons/64b3b0b707a7f70b94aa028a
+
+###
+GET https://render-phonebook-qpy0.onrender.com/api/persons
+
+###
+GET https://render-phonebook-qpy0.onrender.com/api/persons/4
